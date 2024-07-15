@@ -1,3 +1,5 @@
-# Aqui vão estar os Desafios feito nos cursos da formção HTML da DIO. 
+# ✍🏻 Aprendizados HTML ✍🏻
 
-### Desafio 01 - Criando site HTML com primeiras tags parendidas!
+##  🎓 Aqui vão estar os ensinamentos e os desafios feito nos cursos da formação HTML da DIO. 🎓 
+
+### 👨🏻‍💻 Desafio 01 - Criando site HTML com primeiras tags parendidas! 👨🏻‍💻
