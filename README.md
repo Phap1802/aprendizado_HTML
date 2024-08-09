@@ -5,3 +5,5 @@
 ### 👨🏻‍💻 Desafio 01 - Criando site HTML com primeiras tags aprendidas! 👨🏻‍💻
 
 ### 👨🏻‍💻 Desafio 02 - Criando site HTML com todas as  tags aprendidas! 👨🏻‍💻
+
+### 👨🏻‍💻 Desafio 03 - Melhorando Wikipedia utilizando de semantica e acessibilidade! 👨🏻‍💻
